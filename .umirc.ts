@@ -7,4 +7,5 @@ export default defineConfig({
   },
   plugins: ['./build.plugin.ts'],
   npmClient: 'yarn',
+  publicPath: '/test/'
 })
