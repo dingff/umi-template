@@ -5,7 +5,6 @@ export default defineConfig({
     template: 'index.html',
     layout: '@/layouts/mpa/index.tsx'
   },
-  plugins: ['./build.plugin.ts'],
   npmClient: 'yarn',
   publicPath: '/test/'
 })
