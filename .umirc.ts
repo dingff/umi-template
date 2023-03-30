@@ -6,5 +6,6 @@ export default defineConfig({
     layout: '@/layouts/mpa/index.tsx'
   },
   npmClient: 'yarn',
-  publicPath: '/test/'
+  publicPath: '/test/',
+  mountElementId: 'test'
 })
