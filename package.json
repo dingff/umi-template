@@ -21,7 +21,7 @@
     "@ant-design/icons": "^5.0.1",
     "ahooks": "^3.7.5",
     "antd": "^5.2.2",
-    "umi": "^4.0.52"
+    "umi": "4.0.64"
   },
   "devDependencies": {
     "@commitlint/cli": "^17.4.4",
